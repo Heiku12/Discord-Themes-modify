@@ -27,12 +27,12 @@
   --interactive-hover: #EAE1DF;
   --interactive-active: #fff;
   --interactive-muted: #505355;
-  --background-primary: transparent;
-  --background-secondary: transparent;
-  --background-secondary-alt: transparent;
-  --background-tertiary: transparent;
+  --background-primary: #1b1b1b;
+  --background-secondary: #2e2e2e;
+  --background-secondary-alt: #2c2c2c;
+  --background-tertiary: #2b2b2b;
   --background-accent: #929292;
-  --background-floating: transparent;
+  --background-floating: #353535;
   --background-modifier-hover: rgba(85, 85, 85, 0.322);
   --background-modifier-active: rgba(97, 97, 97, 0.37);
   --background-modifier-selected: rgba(75, 75, 75, 0.301);
@@ -41,7 +41,7 @@
   --background-mentioned-hover: rgba(250, 250, 250, 0.63);
   --background-message-hover: rgba(8, 8, 8, 0.027);
   --background-help-warning: rgba(248, 248, 248, 0.1);
-  --background-help-info: transparent;
+  --background-help-info: rgba(237, 237, 237, 0.1);
   --info-positive-text: #fff;
   --info-warning-text: #fff;
   --info-danger-text: #fff;
